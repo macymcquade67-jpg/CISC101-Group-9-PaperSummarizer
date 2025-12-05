@@ -1,4 +1,5 @@
 Change Log (2025-12-05): - Updated module to include conditional behaviour
+
 **Module 2: Section Loop**
 - Generate a summary following the word constraint for each section
 - Ensure relavance
