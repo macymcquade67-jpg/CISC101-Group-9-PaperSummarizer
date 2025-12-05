@@ -6,7 +6,7 @@ Change Log (2025-12-05): - Updated with new requirements to make the output evid
 - Implement strategy for handling papers that exceed the context window
 
 **Strengthen Evidence & Hallucination Guardrails**
-- Strict Evidence Mode `(evidence_mode = "strict")`
+- Strict Evidence Mode (`evidence_mode = "strict"`)
   - Only include claims, equations, and results that appear in the provided text
   - If insufficient information is found, output:
     - "The source text does not provide enough detail to summarize this section in strict evidence mode
